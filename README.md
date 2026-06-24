@@ -12,7 +12,7 @@
 
 The **U.M.E.R Synthetic Data Foundry** addresses the most expensive bottleneck in modern AI: the computer vision cold-start problem. Training robust, domain-adaptable Deep Learning models requires millions of perfectly annotated, edge-case heavy images. Real-world data collection for this is fundamentally unscalable, prone to manual annotation errors, and often physically unsafe.
 
-This repository demonstrates that the U.M.E.R. architecture is not a game engine. It is a **Synthetic Reality Compiler for AI**—a general-purpose procedural world generator with omniscient, pixel-perfect annotation. By leveraging the engine's absolute, deterministic $O(1)$ spatial math, it transforms arbitrary physical or conceptual assets into perfectly labeled, large-scale dataset substrates.
+This repository demonstrates that the U.M.E.R. architecture can be applied as a **Synthetic Reality Compiler for AI**—a general-purpose procedural world generator with omniscient, pixel-perfect annotation. By leveraging the engine's absolute, deterministic $O(1)$ spatial math, it transforms arbitrary physical or conceptual assets into perfectly labeled, large-scale dataset substrates.
 
 ## 1. Universal Input Abstraction Layer
 
